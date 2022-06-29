@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Engineer  <a href="https://ims.ut.ee/">Itelligent Material and Systems Lab </a>University of Tartu,Estonia 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo.png
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h1> <span  style="font-size:70%;text-align: justify;width:10%"> <br> &#8220; <i> Teaching bots to learn. &#8221; </i> </span> </h1>
+<br>
+<h3><b><i> Hello!, Tere! , hallo! </i></b></h3>
+I am a Research Engineer at Collaborative Robotics and Robotic Computing Group at University of Tartu , Estonia. Prior to this  I was working in <a href="https://robotics.iiit.ac.in//"> Robotics Research Center,(IIIT- Hyderabad )</a> working under the supervision of <a href="https://www.iiit.ac.in/people/faculty/mkrishna/">Prof K. Madhava Krishna</a>. I received my Bachelors from the Indian Institute of Technology, Dhanbad, India, where Prof Mrinal Sen advised me.
+My research interests lie broadly in  Reinforcement Learning, Control Theory, and Optimization. My research has focused on Intelligent Control and planner for UAVs and manipulators. 
