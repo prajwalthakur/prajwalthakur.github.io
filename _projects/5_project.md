@@ -1,80 +1,44 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: PERCEPTION INFORMED BY NAVIGATION FOR SEARCH AND RESCUE
+description: A project jointly developed by IIT-ISM and CAIR LAB DRDO
+img: assets/img/cair.png
+importance: 5
+category: misc
 ---
+`Project developed by Indian Institute of Technology ,Dhnabad India and sponsored by Center for Artificial Intelligence and Robotics Lab, A autonoumus lab under Defence Research and Development Organisation India`
+<a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair">CAIR_LAB</a> website. <br/>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This work presents a time dependent metric for object’s confidence  which closely resembles the  behavior inherit by human for detecting an object ,and its inclusion in the pre implemented detection and   tracking algorithm like SORT[],DEEPSORT[].In contrast to other existed tracking algorithm where temporal information is extracted from sequence of frames to enhance tracking this work uses infromation gathered from tracker and generate the the temporal confidence of an object without affecting the fps of existed tracking algorithms.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cair.png" title="admm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    The improved confidence /build up confidence of object is equivalent to the confidence of the tracker .
+From frame 0 to 10 the confidence of tracker is falling as the number of losses is increasing this is analogous to the situation where human first think that a object is “X” with confidence of almost 0.5 then next moment is he/she think that object is another object “Y” due to the unabilty to track the object movement in low lighting condition or because of other reason.
+From frame 10 to 25 tracker confidence starts rising as hits is increasing this is analogus to the situation where a human starts to identify an object to be “X” continuously but with low confidence may be due to lighting condition or due to any other factors and after continuous gazing he is able to identify the object with almost 100% of confidence.
+
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Task has been successfully completed by implementing the 
+proposed formula in different situations and getting the desired result.
 
+• software prerequisites
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+• Python 3
+• Open CV
+For GPU compatibility
+• CUDA and CUDNN
+• darknet
+<br/>
+## My Contribution  <br/>
+Helping in Developent of Algorithm with Dr Mrinal Sen
+studied Kalman filter, Deep sort based tracking Algorithms and modified them as per our needs
+Modified the Script to as per the requirements of DRDO and run it on NVIDIA-JETSON-TX2 for further research in real time computation by drones
+<br/>
+## Project In Charge Professor <br/>
+Dr Mrinal Sen of IIT-ISM Dhanbad,India

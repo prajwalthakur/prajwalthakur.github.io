@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Timed Elastic Band Planner in ROS for turtlebot3
+title: Timed Elastic Band Planner in ROS for turtlebot3 robot
 description: Implementation of Timed Elastic Band planner in ROS neotic for turtlebot3
 img: assets/img/teb_web.png
 importance: 1
-category: work
+category: ROS
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
