@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PERCEPTION INFORMED BY NAVIGATION FOR SEARCH AND RESCUE
-description: A project jointly developed by IIT-ISM and CAIR LAB DRDO
+description: A project jointly developed by Indian Institute of Technology and Defence Research and Development Organisation India
 img: assets/img/cair.png
 importance: 5
 category: misc
