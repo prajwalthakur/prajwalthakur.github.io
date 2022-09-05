@@ -3,7 +3,7 @@ layout: page
 title: MODELLING AND SIMULATION OF VTOL AIRCRAFT IN MATLAB
 description: This project focused on mathematical modelling of Vertical take-off and landing aircraft in MATLAB
 img: assets/img/vtol_modelling.gif
-importance: 7
+importance: 2
 category: Modelling/Optimization
 ---
 ` THIS PROJECT IS A SMALL PART OF A RESEARCH PROJECT THAT I HAVE WORKED AT IIIT HYDERABAD,INDIA`

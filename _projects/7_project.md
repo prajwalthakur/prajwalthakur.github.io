@@ -3,7 +3,7 @@ layout: page
 title: LINEAR MODEL PREDICTIVE ALTITUDE CONTROLLER FOR HYBRID Vertical Takeoff and Landing Aircraft
 description: This project focused on designing non linear mpc control for altitude control of VTOL aircraft in python
 img: assets/img/vtol_python.gif
-importance: 7
+importance: 3
 category: Modelling/Optimization
 ---
 ` THIS PROJECT IS A SMALL PART OF A RESEARCH PROJECT THAT I HAVE WORKED AT IIIT HYDERABAD,INDIA`
