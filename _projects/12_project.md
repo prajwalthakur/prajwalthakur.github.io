@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Differentially flat based PID controller for Parrot Anafi Drone 
-description: Implementation of PID controller for Parrot Anafi Drone ,Integrated with ROS, Opti Track Cameras Capture and Sphinx Simulator
+description: Implementation of PID controller for Parrot Anafi Drone ,Integrated with ROS, Python Interface for Anafi ,Opti Track Cameras and Sphinx Simulator
 img: assets/img/anafi_pid_flat.gif
 importance: 1
 category: Modelling/Optimization
