@@ -10,7 +10,7 @@ category: Modelling/Optimization
 
 
 -Higher resolution Video is here:
-<a href="https://github.com/prajwalthakur/prajwalthakur.github.io/assets/video/anafi_pid_flat.mp4">anafi_demo_on_simulator</a> github_page.
+<a href="https://github.com/prajwalthakur/prajwalthakur.github.io/tree/master/assets/video/anafi_pid_flat.mp4">anafi_demo_on_simulator</a> github_page.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
