@@ -6,7 +6,7 @@ img: assets/img/anafi_pid_flat.gif
 importance: 1
 category: Modelling/Optimization
 ---
-`Implemented PID controller for Differentially flat based model of droner, for Parrot Anafi drone . The video shows sphinx simulator,gazebo visualization. As there is no ROS support for Anafi drones ,We used custom packages to interact with Opti Track Cameras{demo on real drone coming soon} with Anafi python interface and with Sphinx Simulator.` <br/>
+`Implemented PID controller for Differentially flat based model of droner, for Parrot Anafi drone . The video shows sphinx simulator,gazebo visualization. As there is no ROS support for Anafi drones ,We built and used custom packages to interact with Opti Track Cameras{demo on real drone coming soon} with Anafi python interface and with Sphinx Simulator.` <br/>
 
 
 -Higher resolution Video is here:
