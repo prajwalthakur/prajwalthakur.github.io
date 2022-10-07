@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my  projects.
 nav: true
 nav_order: 2
-display_categories: [Modelling/Optimization,RL/ML,ROS,misc]
+display_categories: [ROS,Modelling/Optimization,RL/ML,misc]
 horizontal: false
 ---
 

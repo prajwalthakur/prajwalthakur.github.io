@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Timed Elastic Band Planner in ROS for turtlebot3 robot
-description: Implementation of Timed Elastic Band planner in ROS neotic for turtlebot3
-img: assets/img/teb_web.png
+description: Implementation of Timed Elastic Band planner in ROS Noetic for turtlebot3
+img: assets/img/teb_vid.gif
 importance: 1
 category: ROS
 ---
@@ -15,6 +15,6 @@ category: ROS
     TEB planner demonstartion in gazebo turtlebot3 world.
 </div>
 
-Developed the two part tutorial on how to setup the TEB planner in ros which will get publsihed at skillsmove.eu website.
+Developed the two part tutorial on how to setup the TEB planner in ROS which will get publsihed at skillsmove.eu website.
 A detailed tutorial  of how to setup the teb planner in ROS , what parameters usually need to be tuned, and other useful information will be posted at <a href="https://www.skillsmove.eu/">skills.move.eu</a> website. Tutorial link:
 `to be posted later , once tutorial gets published at skillsmove.eu`
