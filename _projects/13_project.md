@@ -2,13 +2,26 @@
 layout: page
 title: Drone Planning in a map-less Environment
 description: Integration of Navigation stack in parrot-bebop drone for 2d planning in a Map - less Environment
-img: assets/img/bebop_nav_stack.gif
+img: assets/img/real_bebop_rviz.gif
 importance: 1
 category: ROS
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bebop_nav_stack.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/real_bebop_rviz.gif" title="if not shown head to github or open in desktop mode" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Physical Parrot-bebop in Arena , flying Autonomously to rach the goal by avoiding the obstacle (brown box).
+</div>
+
+
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bebop_nav_stack.gif" title="if not shown head to github or open in desktop mode" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,5 +39,6 @@ We approximated the shape of the obstacle as a circle , created a circualr point
 Above video shows the final result of drone , planning in 2d plane without pre existing map .
 
 We uses the drone foot frint to plan in 2d , thats why it is also avoiding the objects which are below the drone's  current altitude .
+
 <!-- A detailed tutorial  of how to setup the teb planner in ROS , what parameters usually need to be tuned, and other useful information will be posted at <a href="https://www.skillsmove.eu/">skills.move.eu</a> website. Tutorial link:
 `to be posted later , once tutorial gets published at skillsmove.eu` -->
