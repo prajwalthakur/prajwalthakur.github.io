@@ -19,3 +19,5 @@ social: true  # includes social icons at the bottom of the page
 <h3><b><i> Hello!, Tere! , hallo! </i></b></h3>
 I am a Research Engineer at Collaborative Robotics and Robotic Computing Group at University of Tartu , Estonia. Prior to this  I was working in <a href="https://robotics.iiit.ac.in//"> Robotics Research Center,(IIIT- Hyderabad )</a> working under the supervision of <a href="https://www.iiit.ac.in/people/faculty/mkrishna/">Prof K. Madhava Krishna</a>. I received my Bachelors from the Indian Institute of Technology, Dhanbad, India, where Prof Mrinal Sen advised me.
 My research interests lie broadly in the intersection of Artificial Intelligence, Control, and Optimization. My research has focused on Intelligent Control and planner for UAVs and manipulators. 
+
+<a href="http://www.clustrmaps.com/map/Prajwalthakur.github.io" title="Visit tracker for Prajwalthakur.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=1G1AUEVSnZ36pgHrRuuxfQ1mfVWVg856hUAmlxh4oLY" /></a>
