@@ -1,5 +1,4 @@
-source 'https://rubygems.org'
-ruby "3.2.2" 
+source 'https://rubygems.org' 
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'

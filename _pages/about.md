@@ -6,7 +6,7 @@ subtitle: Graduate Student at Univeristy of Waterloo . Previously Research Engin
 
 profile:
   align: right
-  image: logo.png
+  image: profile.JPG
   image_cicular: false # crops the image to make it circular
   address: >
 
