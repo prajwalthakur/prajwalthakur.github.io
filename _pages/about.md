@@ -6,7 +6,7 @@ subtitle: Graduate Student at Univeristy of Waterloo . Previously Research Engin
 
 profile:
   align: right
-  image: profile.JPG
+  image: 
   image_cicular: false # crops the image to make it circular
   address: >
 
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 <h1> <span  style="font-size:70%;text-align: justify;width:10%"> <br> &#8220; <i> Teaching bots to learn. &#8221; </i> </span> </h1>
 <br>
 <h3><b><i> Hello!, Tere! , hallo! </i></b></h3>
-I am currently a Master Student at University of Waterloo, advising by Yash Vardhan Pant .  
+I am currently a Master Student .  
 Previously worked at Collaborative Robotics and Robotic Computing Group at University of Tartu , Estonia. Prior to that  I was working in <a href="https://robotics.iiit.ac.in//"> Robotics Research Center,(IIIT- Hyderabad )</a> working under the supervision of <a href="https://www.iiit.ac.in/people/faculty/mkrishna/">Prof K. Madhava Krishna</a>. I received my Bachelors from the Indian Institute of Technology, Dhanbad, India, where Prof Mrinal Sen advised me.
 My research interests lie broadly in the intersection of Artificial Intelligence, Control, and Optimization. My research has focused on Intelligent Control and planner for UAVs and manipulators. 
 
