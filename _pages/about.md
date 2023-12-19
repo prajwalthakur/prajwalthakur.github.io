@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student at University of Waterloo, researching around Autonmous Vechicles  . Previously Research Engineer  <a href="https://ims.ut.ee/"> at Itelligent Material and Systems Lab </a>University of Tartu,Estonia 
+subtitle: Graduate Student at University of Waterloo, researching in  Autonmous Vechicles  . Previously Research Engineer  <a href="https://ims.ut.ee/"> at Itelligent Material and Systems Lab </a>University of Tartu,Estonia 
 
 profile:
   align: right
