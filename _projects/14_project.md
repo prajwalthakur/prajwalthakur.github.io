@@ -14,7 +14,7 @@ category:  Modelling/Optimization
 <div class="caption">
  white dotted line is the trajectory Prediction, Red box is the Ego Vehicle . Red dashed line is the reference trajectory , blue and green dashed line is the track boundries.
 </div>
-This project is the python implementation of Model Predictice Contouring Control <a href="https://github.com/alexliniger/MPCC">github-mpcc</a>, with Kinematic based Vehicle Model  . Used python api for HPIPM  . 
+This project is the python implementation of Model Predictice Contouring Control <a href="https://github.com/alexliniger/MPCC">github-mpcc</a>, with Kinematic based Vehicle Model  . Used python api for HPIPM . 
 
 
 

@@ -22,4 +22,6 @@ Previously worked at Collaborative Robotics and Robotic Computing Group at Unive
 <br>
 My research pursuits encompass the expansive intersection of Artificial Intelligence, Control Theory, and Optimization as applied to Robotics. Presently, my research endeavors are concentrated on the development of algorithms tailored for Intelligent Control and planning purposes, specifically targeting Unmanned Aerial Vehicles (UAVs) and autonomous Vehicles.During leisure moments, I engage in playing first-person shooter video games and partake in hiking activities.
 
+<p align="center">
 <a href="http://www.clustrmaps.com/map/Prajwalthakur.github.io" title="Visit tracker for Prajwalthakur.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=1G1AUEVSnZ36pgHrRuuxfQ1mfVWVg856hUAmlxh4oLY" /></a>
+<p>
